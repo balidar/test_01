@@ -1,0 +1,1 @@
+It sounds like DNS isn't available within the container. Any idea what's going on? Did I do something wrong, or is there a mistake in the instructions?
